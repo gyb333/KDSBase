@@ -1,0 +1,6 @@
+SCC = This is a Source Code Control file.
+
+[KDS.Client.BLBase.csproj]
+SCC_Aux_Path = 10.228.0.6:8877:KDS2
+SCC_Project_Name = $/Code/Client/KDS.Client.BLBase
+

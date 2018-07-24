@@ -1,0 +1,4 @@
+2012/4/16
+===========
+1. DataHelper.GetDataPageSqlCmd
+2. DataAccess.GetDataSet  //@@ParaWhere
